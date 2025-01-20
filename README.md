@@ -26,23 +26,4 @@ When I first began working on projects, my knowledge was limited. However, throu
 
 ---
 
-## How You Can Contribute 🤝
-
-I welcome contributions to my projects. If you'd like to get involved, here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a pull request
-
----
-
-## Contact Me 📧
-
-Feel free to reach out if you have any questions or feedback!
-
-- [GitHub](https://github.com/LunarWolf-Browser-Projects)
-- [Email](mailto:your-email@example.com)
-
-Thank you for visiting my profile, and I hope you enjoy exploring my projects! 🌟
+Thank you for visiting my profile, and I hope you enjoy exploring the projects! 🌟
