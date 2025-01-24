@@ -1,5 +1,8 @@
 # Welcome to My GitHub! 👨‍💻🚀
 
+# if your here to contact me.
+you can do so by email at: valkunrangeclips@protonmail.com
+
 Hello! 👋
 
 I have always had a strong interest in creating things, and one of my long-standing dreams has been to develop a web browser—whether built on **Chromium** or another open-source platform. Currently, I am considering using tools like **Electron** to bring this vision to life.
