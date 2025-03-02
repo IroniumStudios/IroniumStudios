@@ -20,7 +20,6 @@ I am passionate about coding and take great satisfaction in seeing my work trans
 I currently maintain an open-source project that I developed, which leverages tools such as Electron. You can find it here:
 
 - [LunarWolf Image Converter](https://github.com/LunarWolf-Browser-Projects/LunarWolf-image-converter)
-- [LunarWolf Web Browser]([https://github.com/LunarWolf-Browser-Projects/LunarWolf-image-converter](https://github.com/LunarWolf-Browser-Projects/LunarWolf-Browser-Desktop))
 
 Additionally, I have other projects in development under my GitHub profile.
 
